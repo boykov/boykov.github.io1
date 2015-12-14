@@ -1,7 +1,7 @@
 ---
 layout: post
+category : lessons
 title: Голодание
-excerpt: An unplanned bivouac on Ben Nevis.
 ---
 
 # ссылки
